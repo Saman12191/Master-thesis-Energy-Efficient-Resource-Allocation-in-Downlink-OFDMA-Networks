@@ -1,1 +1,1 @@
-
+The main functions of this project include generating objective functions and constraints for energy-efficient resource allocation, implementing single and multi-user waterfilling algorithms for optimal power allocation, and using the Bisection Algorithm (BPA) as a benchmark method for power allocation. These functions are essential for addressing energy efficiency in Downlink OFDMA networks by optimizing resource usage and ensuring better power efficiency in mobile devices.
